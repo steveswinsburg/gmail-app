@@ -1,0 +1,14 @@
+{
+  "name": "Gmail-App",
+  "version": "1.0.0",
+  "description": "Makes Gmail an app",
+  "repository": "https://github.com/steveswinsburg/gmail-app",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^3.0.2"
+  }
+}
